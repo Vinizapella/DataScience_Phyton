@@ -35,5 +35,5 @@ Este projeto representa minha jornada inicial de aprendizado em Python. Complete
 ---
 
 <p align="center">
-  &copy; 2025 - Meus Primeiros Passos em Data Science
+  &copy; 2025 - Data Science
 </p>
